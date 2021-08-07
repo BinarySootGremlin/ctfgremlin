@@ -1,2 +1,2 @@
-# ctfgremlin.github.io
+# ctfgremlin
 Collection of CTF writeups I found shareworthy
